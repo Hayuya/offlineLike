@@ -1,1 +1,2 @@
 # offlineLike
+manually init
